@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Milena\source\repos\POOPlabZadatak\POOPlabZadatak\Source.cpp(47,7): warning C4101: 'ret': unreferenced local variable
+  Generating code
+  1 of 2991 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  POOPlabZadatak.vcxproj -> C:\Users\Milena\source\repos\POOPlabZadatak\Release\POOPlabZadatak.exe

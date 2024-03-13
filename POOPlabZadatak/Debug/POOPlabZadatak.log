@@ -1,0 +1,14 @@
+﻿  Athlete.cpp
+  Competitor.cpp
+  Country.cpp
+  Event.cpp
+  Events.cpp
+C:\Users\Milena\source\repos\POOPlabZadatak\POOPlabZadatak\Events.cpp(28,17): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Milena\source\repos\POOPlabZadatak\POOPlabZadatak\Events.cpp(86,17): warning C4129: '.': unrecognized character escape sequence
+  Game.cpp
+  Source.cpp
+C:\Users\Milena\source\repos\POOPlabZadatak\POOPlabZadatak\Source.cpp(47,7): warning C4101: 'ret': unreferenced local variable
+  Sport.cpp
+  Team.cpp
+  Generating Code...
+  POOPlabZadatak.vcxproj -> C:\Users\Milena\source\repos\POOPlabZadatak\Debug\POOPlabZadatak.exe
